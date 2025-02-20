@@ -2,3 +2,4 @@ praw
 textblob
 pytrends
 plotly
+statsmodels
